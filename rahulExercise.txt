@@ -1,0 +1,3 @@
+[2020-03-30 08:38:43.320179] Shoulder:iie,Triceps:uuur,Chest:ttrtt
+[2020-03-30 08:46:08.232212] Shoulder:tttt,Triceps:pppp,Chest:llll
+[2020-03-30 08:46:59.978882] Shoulder:ak47,Triceps:irii,Chest:ooo

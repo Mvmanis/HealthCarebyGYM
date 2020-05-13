@@ -1,0 +1,4 @@
+[2020-03-30 08:24:56.286427] Breakfast:sjj,Lunch:ieie,Dinner:otot
+[2020-03-30 08:27:33.067128] Breakfast:jsj,Lunch:uruur,Dinner:oroo
+[2020-03-30 08:45:34.099413] Breakfast:uueueu,Lunch:rerre,Dinner:ooor
+[2020-03-30 08:45:54.323092] Breakfast:wwww,Lunch:qqq,Dinner:aaa
